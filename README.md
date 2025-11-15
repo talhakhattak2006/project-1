@@ -1,2 +1,2 @@
 # project-1
-i am ftudent
+i am Student
